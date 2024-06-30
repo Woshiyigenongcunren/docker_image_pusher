@@ -1,3 +1,4 @@
 homeassistant/home-assistant
 mysql
 justsong/one-api
+xhofe/alist
